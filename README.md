@@ -33,3 +33,7 @@ Open `index.html` in a browser. No build step or package install is required.
 - Confirmed professional affiliations
 - Social links
 - Contact form destination or secure intake workflow
+
+##
+## 
+## 
