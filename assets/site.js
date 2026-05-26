@@ -10,7 +10,7 @@ if (headerTarget) {
       <div class="top-strip">
         <div class="container">
           <span>Serving the DMV region with Dedication, Mastery &amp; Vision</span>
-          <span><a href="tel:+1-000-000-0000">(000) 000-0000</a> | <a href="mailto:info@cpa-dmv.com">info@cpa-dmv.com</a></span>
+          <span><a href="tel:+1-000-000-0000">(000) 000-0000</a> | <a href="mailto:support@cpa-dmv.com">support@cpa-dmv.com</a></span>
         </div>
       </div>
       <div class="container nav-wrap">
@@ -95,7 +95,7 @@ if (footerTarget) {
           <h3>Contact</h3>
           <ul>
             <li>Phone: <a href="tel:+1-000-000-0000">(000) 000-0000</a></li>
-            <li>Email: <a href="mailto:info@cpa-dmv.com">info@cpa-dmv.com</a></li>
+            <li>Email: <a href="mailto:support@cpa-dmv.com">support@cpa-dmv.com</a></li>
             <li>Address: [DMV office address placeholder]</li>
             <li>Service Area: District of Columbia, Maryland, and Virginia</li>
           </ul>
